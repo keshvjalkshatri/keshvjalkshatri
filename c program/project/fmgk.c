@@ -1,3 +1,4 @@
+/*Find out how much money ity will take to go tyhat many kilometers.*/
 #include<stdio.h>
 int i;
 float km,ctpp,trp=0,tpl,tpml=0;
